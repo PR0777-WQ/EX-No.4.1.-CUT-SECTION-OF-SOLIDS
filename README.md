@@ -17,7 +17,7 @@ To create the solid model from given drawing and section the solid model
 
 ![image](https://user-images.githubusercontent.com/113594316/198825274-c6a8d3ee-fb19-4641-b915-8d2e000c40a8.png)
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch .
 
 ![image](https://user-images.githubusercontent.com/113594316/198825282-0d3de4b8-b6d9-446a-ae2a-461955057399.png)
 
